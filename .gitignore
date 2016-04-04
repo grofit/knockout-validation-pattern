@@ -1,0 +1,6 @@
+/.idea
+/dist
+/node_modules
+/_working
+*.DS_Store
+/reports

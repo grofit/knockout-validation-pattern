@@ -1,0 +1,36 @@
+{
+  "name": "knockout-validation-pattern",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "knockout": "latest",
+    "knockout-es5": "grofit/knockout-es5",
+    "knockout.validation": "^2.0.3",
+    "knockout.merge": "^1.5.5",
+    "bluebird": "3.1.1",
+    "sugar": "1.4.1",
+    "linq": "3.0.5"
+  },
+  "devDependencies": {
+    "gulp-es6-exporter": "grofit/gulp-es6-exporter",
+    "gulp": "^3.9.0",
+    "gulp-typescript": "2.10.0",
+    "gulp-uglify": "1.5.1",
+    "gulp-rename": "1.2.2",
+    "rimraf": "latest",
+    "mkdirp": "latest",
+    "require-dir": "^0.1.0",
+    "run-sequence": "^1.0.2",
+    "webpack-stream": "^3.1.0",
+    "expose-loader": "^0.7.1",
+    "merge2": "latest",
+    "chai-as-promised": "5.2.0",
+    "karma": "^0.13.19",
+    "karma-mocha": "latest",
+    "mocha": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-chai": "^0.1.0",
+    "chai": "latest",
+    "karma-chai-as-promised": "0.1.2"
+  }
+}
